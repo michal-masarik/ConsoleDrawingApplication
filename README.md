@@ -118,7 +118,7 @@ You should aim to implement to a level where you would be happy to have somebody
 - Following TDD and writing unit tests first was really useful for this application.
 
 
-# How to run
+## How to run
 
 Run All tests:
 
@@ -140,7 +140,7 @@ java -jar ConsoleDrawingApplication-0.0.1-SNAPSHOT.jar
 ```
 
 
-# Suggested Improvements
+## Suggested Improvements
 
 - learn program to remember all objects drawn in past (save them in some data structure). 
 	This would allow operations like undo/redo step, removing or repositioning already drawn objects etc.
